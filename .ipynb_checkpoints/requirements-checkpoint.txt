@@ -1,0 +1,16 @@
+intel-extension-for-transformers==1.4.2
+neural-compressor==2.5
+transformers==4.30.2
+modelscope==1.9.5
+pydantic==1.10.13
+sentencepiece
+tiktoken
+einops
+transformers_stream_generator
+uvicorn
+fastapi
+yacs
+setuptools_scm
+openai
+streamlit
+matplotlib
