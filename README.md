@@ -67,6 +67,3 @@ python main.py
 - 可视化图表保存在：`visual/` 目录
 - Markdown 汇总表格为：`visual/model_score_summary.md`
 
----
-
-如需进一步定制模型、评分逻辑或可视化方式，请参考各模块源码进行修改。需要我生成 `requirements.txt` 吗？
